@@ -35,7 +35,7 @@ $ yarn
 ```
 # execute isso para inicializar o banco de dados
 ```
-$ knex:migrate
+$ yarn knex:migrate
 ```
 e então
 
