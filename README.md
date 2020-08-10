@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  Backend contruido utilizando Node.JS
+  Backend construido utilizando Node.JS
 </p>
 
 
