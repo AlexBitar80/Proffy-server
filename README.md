@@ -20,26 +20,24 @@
 
 Para rodar o projeto você dever ter o [Git](https://git-scm.com), o [Node.js v12.18.0](https://nodejs.org/en/download/) e [Yarn v1.22.4](https://classic.yarnpkg.com/en/docs/install/) instalado na máquina :
 
-```
+
 # Clone este repositório
-
+```
 $ git clone https://github.com/AlexBitar80/Proffy-server.git
-
+```
 # vá até a pasta do projeto
-
+```
 $ cd Proffy-server
-
+```
 # execute isso para instalar dependências
-
+```
 $ yarn
-
+```
 # execute isso para inicializar o banco de dados
-
+```
 $ knex:migrate
 ```
-
 e então
-
 
 # Para rodar o projeto
 ```
