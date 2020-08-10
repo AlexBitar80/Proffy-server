@@ -6,14 +6,11 @@
   <b>Resumo do projeto</b>
 </p>
 
-<p>
-  Backend construido utilizando Node.JS
-</p>
-
 
 <p align="center">
-
+  <p>Backend construido utilizando Node.JS</p>
 </p>
+  
 
 
 ## :information_source: Como usar
