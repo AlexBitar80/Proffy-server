@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <p>Backend construido utilizando Node.JS</p>
+  <b>Backend construido utilizando Node.JS</b>
 </p>
   
 
