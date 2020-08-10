@@ -1,5 +1,5 @@
 <h1 align="center">
-  Backend do projeto desenvolvido durante a segunda edição na Next_Level_Week
+  Backend do projeto desenvolvido durante a segunda edição da Next_Level_Week feita pela Rocketseat
 </h1>
 
 <p align="center">
